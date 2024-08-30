@@ -82,7 +82,7 @@ export const projectsData = [
   {
     title: "Real Appeal Developer",
     description:
-      "Worked on Migration of flagship application onto newer tech stack. Tasks: Migrated Splunk alerts over to Datadog monitors and further configured user event tracking. ",
+      "Worked on the migration of flagship application onto newer tech stack. Tasks: Migrated Splunk alerts over to Datadog monitors and further configured user event tracking. ",
     tags: ["Next.js", "Tailwind", "Typescript", "Amplitude", "Datadog", "Splunk"],
     imageUrl: realappeal,
   },

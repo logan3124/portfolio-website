@@ -25,7 +25,7 @@ export default function About() {
         <span className="font-medium">Artificial Intelligence</span> and{" "}
         <span className="font-medium">Media Applications</span> in addition to a minor in Spanish.
         Currently I am focusing on backend-engineering and recently completed my certification as an
-        {" "}<span className="font-medium">AWS Certified Developer</span> at the Associate level.
+        {" "}<span className="font-medium">AWS Certified Developer</span> at the Associate level. Click <b><a href="https://www.credly.com/badges/94281a7e-cd2f-44cf-8e02-46e6cefdfad5/public_url">Here</a></b> to view my certification on Credly.
       </p>
 
       <p>
